@@ -1,0 +1,4 @@
+V001,TATA Nexon,O,0,2000,A
+V002,KIA EV6,O,0,2200,A
+V003,Mahindra Scorpio,O,0,3000,A
+V004,Hyundai Creta,P,20,3500,A

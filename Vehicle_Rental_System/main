@@ -1,0 +1,6 @@
+import sys
+
+n = len(sys.argv)
+print("Total arguments pass:", n)
+
+print("\n Namw
