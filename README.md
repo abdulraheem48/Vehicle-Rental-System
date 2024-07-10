@@ -1,6 +1,5 @@
-Internal - General Use
-Vehicle Rental System
-1. Project Setup and User Interface Design:
+## Vehicle Rental System
+- 1. Project Setup and User Interface Design:
 o Set up a Python development environment using your preferred IDE (e.g.,
 Visual Studio Code, PyCharm, or any other).
 o Plan and design the user interface of the application. Create menus, forms, and
