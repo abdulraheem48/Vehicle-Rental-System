@@ -1,4 +1,4 @@
-# Car Rental Management System
+# Vehical Rental Management System
 
 This is a comprehensive command-line application designed to manage a car rental business. The system supports various operations related to customers, staff, vehicles, and bookings. Additionally, it provides functionalities for renting and returning vehicles, and generating various reports and graphs for better business insights.
 
